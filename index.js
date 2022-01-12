@@ -59,7 +59,7 @@ const CompoundInterest = () => {
           </Button>
           <br />
           <br />
-          <div style={{ fontSize: "30px" }}>${result}</div>
+          <div style={{ fontSize: "30px" }}>£{result}</div>
         </form>
       </div>
     </>
